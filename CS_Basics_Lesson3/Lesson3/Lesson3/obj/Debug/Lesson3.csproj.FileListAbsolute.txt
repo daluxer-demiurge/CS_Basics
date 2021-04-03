@@ -1,0 +1,7 @@
+C:\Users\kozyr\Desktop\Медведь учёба\CS_Basics\CS_Basics_Lesson3\Lesson3\Lesson3\obj\Debug\Lesson3.csprojAssemblyReference.cache
+C:\Users\kozyr\Desktop\Медведь учёба\CS_Basics\CS_Basics_Lesson3\Lesson3\Lesson3\obj\Debug\Lesson3.csproj.CoreCompileInputs.cache
+C:\Users\kozyr\Desktop\Медведь учёба\CS_Basics\CS_Basics_Lesson3\Lesson3\Lesson3\bin\Debug\Lesson3.exe.config
+C:\Users\kozyr\Desktop\Медведь учёба\CS_Basics\CS_Basics_Lesson3\Lesson3\Lesson3\bin\Debug\Lesson3.exe
+C:\Users\kozyr\Desktop\Медведь учёба\CS_Basics\CS_Basics_Lesson3\Lesson3\Lesson3\bin\Debug\Lesson3.pdb
+C:\Users\kozyr\Desktop\Медведь учёба\CS_Basics\CS_Basics_Lesson3\Lesson3\Lesson3\obj\Debug\Lesson3.exe
+C:\Users\kozyr\Desktop\Медведь учёба\CS_Basics\CS_Basics_Lesson3\Lesson3\Lesson3\obj\Debug\Lesson3.pdb
