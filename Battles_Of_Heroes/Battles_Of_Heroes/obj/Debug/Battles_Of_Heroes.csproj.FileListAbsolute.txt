@@ -1,0 +1,7 @@
+C:\Users\kozyr\Desktop\Медведь учёба\CS_Basics\Battles_Of_Heroes\Battles_Of_Heroes\bin\Debug\Battles_Of_Heroes.exe.config
+C:\Users\kozyr\Desktop\Медведь учёба\CS_Basics\Battles_Of_Heroes\Battles_Of_Heroes\bin\Debug\Battles_Of_Heroes.exe
+C:\Users\kozyr\Desktop\Медведь учёба\CS_Basics\Battles_Of_Heroes\Battles_Of_Heroes\bin\Debug\Battles_Of_Heroes.pdb
+C:\Users\kozyr\Desktop\Медведь учёба\CS_Basics\Battles_Of_Heroes\Battles_Of_Heroes\obj\Debug\Battles_Of_Heroes.csprojAssemblyReference.cache
+C:\Users\kozyr\Desktop\Медведь учёба\CS_Basics\Battles_Of_Heroes\Battles_Of_Heroes\obj\Debug\Battles_Of_Heroes.csproj.CoreCompileInputs.cache
+C:\Users\kozyr\Desktop\Медведь учёба\CS_Basics\Battles_Of_Heroes\Battles_Of_Heroes\obj\Debug\Battles_Of_Heroes.exe
+C:\Users\kozyr\Desktop\Медведь учёба\CS_Basics\Battles_Of_Heroes\Battles_Of_Heroes\obj\Debug\Battles_Of_Heroes.pdb
