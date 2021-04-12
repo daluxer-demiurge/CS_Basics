@@ -7,33 +7,39 @@ using System.Threading.Tasks;
 
 namespace Lesson4
 {
-    struct Account
+    public struct Account
     {
-        public string login;
-        public string pass;
+        string[] account;
+        string login;
+        string password;
 
-        public static string[] ReadStringFromFile(string fileName)
+        public void CheckLogPass()
         {
-            if (File.Exists(fileName))
-            {
-                StreamReader reader = new StreamReader(fileName);
-                var size = int.Parse(reader.ReadLine());
-                var logPass = new string[size];
-                for (int i = 0; i < size; i++)
-                    logPass[i] = reader.ReadLine();
-                reader.Close();
-                return logPass;
-            }
-            else
-            {
-                throw new FileNotFoundException();
-            }
+            int tryCount = 0;
+            int maxTryCount = 3;
+            
+            
         }
 
-        public string getLogin()
+        public static string getLog()
         {
+            var loginArray = MyArray.ReadlogPassFile(AppDomain.CurrentDomain.BaseDirectory + "logPass.txt");
+            login = loginArray[1];
             return login;
         }
+
+        public string getPass()
+        {
+            var passArray = MyArray.ReadlogPassFile(AppDomain.CurrentDomain.BaseDirectory + "logPass.txt");
+            pass = passArray[2];
+            return pass;
+        }
+
+    }
+
+        
+
+       
 
     }
     class Program
@@ -132,38 +138,31 @@ namespace Lesson4
             Console.WriteLine("Автор - Сержов Михаил");
             Console.ResetColor();
             Console.WriteLine();
-            int tryCount = 0;
-            int maxTryCount = 3;
-            
-            do
+        do
+        {
+            Console.WriteLine("Введите логин");
+            Lesson4.Account. = Console.ReadLine();
+            Console.WriteLine("Введите пароль");
+            pass = Console.ReadLine();
+
+            if (log == Account.getLog.lo && pass == Account.pass)
             {
-                Console.WriteLine("Введите логин");
-                string userLogin = Console.ReadLine();
-                Console.WriteLine("Введите пароль");
-                string userPass = Console.ReadLine();
-                if (userLogin == login && userPass == pass)
-                {
-                    Console.WriteLine("Аторизация пройдена успешно.");
-                    break;
-                }
-                else
-                {
-                    Console.WriteLine("Неверный логин и/или пароль.");
-                    tryCount++;
-                }
-            } while (tryCount < maxTryCount);
+                Console.WriteLine("Аторизация пройдена успешно.");
+                break;
+            }
+            else
+            {
+                Console.WriteLine("Неверный логин и/или пароль.");
+                tryCount++;
+            }
+        } while (tryCount < maxTryCount);
+        r;
+        User.login 
+
+
+       
             goMenu();
         }
-
-        
-
-        
-
-
-
-
-
-
 
         #endregion
 
@@ -295,9 +294,25 @@ namespace Lesson4
             }
         }
 
-
-        //
-        public static int[] ReadFromFile(string fileName)
+    public static string[] ReadlogPassFile(string fileName)
+    {
+        if (File.Exists(fileName))
+        {
+            StreamReader reader = new StreamReader(fileName);
+            var size = int.Parse(reader.ReadLine());
+            string[] arr = new string[size];
+            for (int i =0; i<size; i++)
+                arr[i] = reader.ReadLine();           
+            reader.Close();
+            return arr;
+        }
+        else
+        {
+            throw new FileNotFoundException();
+        }
+    }
+    //
+    public static int[] ReadFromFile(string fileName)
         {
             if (File.Exists(fileName))
             {
@@ -329,7 +344,7 @@ namespace Lesson4
             writer.Close();
         }
     }
-}
+
     #endregion
 
 
