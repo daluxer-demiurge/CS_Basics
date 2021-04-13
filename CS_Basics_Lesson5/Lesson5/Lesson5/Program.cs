@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Globalization;
 using System.Linq;
 using System.Text;
+using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 
 namespace Lesson5
@@ -11,6 +12,7 @@ namespace Lesson5
 
     class Program
     {
+        #region - Menu
         public static void MyMenu()
         {
             int taskNo = 0;
@@ -50,7 +52,8 @@ namespace Lesson5
             }
             while (taskNo != 0);
         }
-
+        #endregion
+        #region - MetodsForTask1
         public static bool CheckLogin(string userLogin)
         {
                         
@@ -98,6 +101,14 @@ namespace Lesson5
             return true;
         }
 
+        public static bool CheckLoginRegex(string userLogin)
+        {
+            Regex regex = new Regex(@"^(\D[a-zA-Z0-9]{2,10})");
+            return regex.IsMatch(userLogin);
+            
+        }
+
+        #endregion
         #region - Task1
         public static void Task1()
         {            
@@ -114,7 +125,11 @@ namespace Lesson5
             bool loginOk;
             do
             {
-                Console.WriteLine("Введите логин. Введите 'esc' в поле логина для отмены.");
+                Console.WriteLine("Введите логин."+
+                    "\nОт 2 до 10 символов."+
+                    "\nВозможно использование латинского алфавита и цифр."+
+                    "\nЛогин не может начинаться с цифры."+
+                    "\nВведите 'esc' в поле логина для отмены.");
                 string userLogin = Console.ReadLine();
                 if (userLogin == "esc") break;
                 loginOk = CheckLogin(userLogin);
