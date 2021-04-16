@@ -257,22 +257,23 @@ namespace Lesson5
 
         public static string LongestWordsText(string analyzedText)
         {
+            StringBuilder stringBuilder = new StringBuilder();
             var words = analyzedText.Split(separators, StringSplitOptions.RemoveEmptyEntries);
             int temp = 0;
-            string totalString = string.Empty;
             for (int i = 0; i < words.Length - 1; i++)
             {
                 if (words[i].Length > words[i++].Length) temp = i;
             }
             for (int j=0; j < words.Length; j++)
             {
-                if (words[j].Length == words[temp].Length && words[j] != (words[temp])) totalString = totalString + words[j];
+                if (words[j].Length == words[temp].Length && words[j] != (words[temp])) stringBuilder.Append(words[j]);
             }
-            totalString += words[temp];
-            return totalString;
+            stringBuilder.Insert(0, words[temp]);
+            return (stringBuilder.ToString());
 
         }
 
+       
 
     }
 
