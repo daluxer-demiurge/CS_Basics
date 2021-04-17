@@ -1,0 +1,15 @@
+C:\Users\kozyr\Desktop\Медведь учёба\CS_Basics\CS_Basics_Lesson7\Lesson7_GuessNumber\Lesson7_GuessNumber\Lesson7_GuessNumber\bin\Debug\netcoreapp3.1\Lesson7_GuessNumber.exe
+C:\Users\kozyr\Desktop\Медведь учёба\CS_Basics\CS_Basics_Lesson7\Lesson7_GuessNumber\Lesson7_GuessNumber\Lesson7_GuessNumber\bin\Debug\netcoreapp3.1\Lesson7_GuessNumber.deps.json
+C:\Users\kozyr\Desktop\Медведь учёба\CS_Basics\CS_Basics_Lesson7\Lesson7_GuessNumber\Lesson7_GuessNumber\Lesson7_GuessNumber\bin\Debug\netcoreapp3.1\Lesson7_GuessNumber.runtimeconfig.json
+C:\Users\kozyr\Desktop\Медведь учёба\CS_Basics\CS_Basics_Lesson7\Lesson7_GuessNumber\Lesson7_GuessNumber\Lesson7_GuessNumber\bin\Debug\netcoreapp3.1\Lesson7_GuessNumber.runtimeconfig.dev.json
+C:\Users\kozyr\Desktop\Медведь учёба\CS_Basics\CS_Basics_Lesson7\Lesson7_GuessNumber\Lesson7_GuessNumber\Lesson7_GuessNumber\bin\Debug\netcoreapp3.1\Lesson7_GuessNumber.dll
+C:\Users\kozyr\Desktop\Медведь учёба\CS_Basics\CS_Basics_Lesson7\Lesson7_GuessNumber\Lesson7_GuessNumber\Lesson7_GuessNumber\bin\Debug\netcoreapp3.1\Lesson7_GuessNumber.pdb
+C:\Users\kozyr\Desktop\Медведь учёба\CS_Basics\CS_Basics_Lesson7\Lesson7_GuessNumber\Lesson7_GuessNumber\Lesson7_GuessNumber\obj\Debug\netcoreapp3.1\Lesson7_GuessNumber.csprojAssemblyReference.cache
+C:\Users\kozyr\Desktop\Медведь учёба\CS_Basics\CS_Basics_Lesson7\Lesson7_GuessNumber\Lesson7_GuessNumber\Lesson7_GuessNumber\obj\Debug\netcoreapp3.1\Lesson7_GuessNumber.Form1.resources
+C:\Users\kozyr\Desktop\Медведь учёба\CS_Basics\CS_Basics_Lesson7\Lesson7_GuessNumber\Lesson7_GuessNumber\Lesson7_GuessNumber\obj\Debug\netcoreapp3.1\Lesson7_GuessNumber.csproj.GenerateResource.cache
+C:\Users\kozyr\Desktop\Медведь учёба\CS_Basics\CS_Basics_Lesson7\Lesson7_GuessNumber\Lesson7_GuessNumber\Lesson7_GuessNumber\obj\Debug\netcoreapp3.1\Lesson7_GuessNumber.AssemblyInfoInputs.cache
+C:\Users\kozyr\Desktop\Медведь учёба\CS_Basics\CS_Basics_Lesson7\Lesson7_GuessNumber\Lesson7_GuessNumber\Lesson7_GuessNumber\obj\Debug\netcoreapp3.1\Lesson7_GuessNumber.AssemblyInfo.cs
+C:\Users\kozyr\Desktop\Медведь учёба\CS_Basics\CS_Basics_Lesson7\Lesson7_GuessNumber\Lesson7_GuessNumber\Lesson7_GuessNumber\obj\Debug\netcoreapp3.1\Lesson7_GuessNumber.csproj.CoreCompileInputs.cache
+C:\Users\kozyr\Desktop\Медведь учёба\CS_Basics\CS_Basics_Lesson7\Lesson7_GuessNumber\Lesson7_GuessNumber\Lesson7_GuessNumber\obj\Debug\netcoreapp3.1\Lesson7_GuessNumber.dll
+C:\Users\kozyr\Desktop\Медведь учёба\CS_Basics\CS_Basics_Lesson7\Lesson7_GuessNumber\Lesson7_GuessNumber\Lesson7_GuessNumber\obj\Debug\netcoreapp3.1\Lesson7_GuessNumber.pdb
+C:\Users\kozyr\Desktop\Медведь учёба\CS_Basics\CS_Basics_Lesson7\Lesson7_GuessNumber\Lesson7_GuessNumber\Lesson7_GuessNumber\obj\Debug\netcoreapp3.1\Lesson7_GuessNumber.genruntimeconfig.cache
