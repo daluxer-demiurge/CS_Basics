@@ -1,0 +1,16 @@
+C:\Users\kozyr\Desktop\Медведь учёба\CS_Basics\CS_Basics_Lesson7\Lesson7_WF_Udvoitel\WF_Udvoitel\WF_Udvoitel\bin\Debug\netcoreapp3.1\WF_Udvoitel.exe
+C:\Users\kozyr\Desktop\Медведь учёба\CS_Basics\CS_Basics_Lesson7\Lesson7_WF_Udvoitel\WF_Udvoitel\WF_Udvoitel\bin\Debug\netcoreapp3.1\WF_Udvoitel.deps.json
+C:\Users\kozyr\Desktop\Медведь учёба\CS_Basics\CS_Basics_Lesson7\Lesson7_WF_Udvoitel\WF_Udvoitel\WF_Udvoitel\bin\Debug\netcoreapp3.1\WF_Udvoitel.runtimeconfig.json
+C:\Users\kozyr\Desktop\Медведь учёба\CS_Basics\CS_Basics_Lesson7\Lesson7_WF_Udvoitel\WF_Udvoitel\WF_Udvoitel\bin\Debug\netcoreapp3.1\WF_Udvoitel.runtimeconfig.dev.json
+C:\Users\kozyr\Desktop\Медведь учёба\CS_Basics\CS_Basics_Lesson7\Lesson7_WF_Udvoitel\WF_Udvoitel\WF_Udvoitel\bin\Debug\netcoreapp3.1\WF_Udvoitel.dll
+C:\Users\kozyr\Desktop\Медведь учёба\CS_Basics\CS_Basics_Lesson7\Lesson7_WF_Udvoitel\WF_Udvoitel\WF_Udvoitel\bin\Debug\netcoreapp3.1\WF_Udvoitel.pdb
+C:\Users\kozyr\Desktop\Медведь учёба\CS_Basics\CS_Basics_Lesson7\Lesson7_WF_Udvoitel\WF_Udvoitel\WF_Udvoitel\obj\Debug\netcoreapp3.1\WF_Udvoitel.csprojAssemblyReference.cache
+C:\Users\kozyr\Desktop\Медведь учёба\CS_Basics\CS_Basics_Lesson7\Lesson7_WF_Udvoitel\WF_Udvoitel\WF_Udvoitel\obj\Debug\netcoreapp3.1\WF_Udvoitel.Form1.resources
+C:\Users\kozyr\Desktop\Медведь учёба\CS_Basics\CS_Basics_Lesson7\Lesson7_WF_Udvoitel\WF_Udvoitel\WF_Udvoitel\obj\Debug\netcoreapp3.1\WF_Udvoitel.csproj.GenerateResource.cache
+C:\Users\kozyr\Desktop\Медведь учёба\CS_Basics\CS_Basics_Lesson7\Lesson7_WF_Udvoitel\WF_Udvoitel\WF_Udvoitel\obj\Debug\netcoreapp3.1\WF_Udvoitel.AssemblyInfoInputs.cache
+C:\Users\kozyr\Desktop\Медведь учёба\CS_Basics\CS_Basics_Lesson7\Lesson7_WF_Udvoitel\WF_Udvoitel\WF_Udvoitel\obj\Debug\netcoreapp3.1\WF_Udvoitel.AssemblyInfo.cs
+C:\Users\kozyr\Desktop\Медведь учёба\CS_Basics\CS_Basics_Lesson7\Lesson7_WF_Udvoitel\WF_Udvoitel\WF_Udvoitel\obj\Debug\netcoreapp3.1\WF_Udvoitel.csproj.CoreCompileInputs.cache
+C:\Users\kozyr\Desktop\Медведь учёба\CS_Basics\CS_Basics_Lesson7\Lesson7_WF_Udvoitel\WF_Udvoitel\WF_Udvoitel\obj\Debug\netcoreapp3.1\WF_Udvoitel.dll
+C:\Users\kozyr\Desktop\Медведь учёба\CS_Basics\CS_Basics_Lesson7\Lesson7_WF_Udvoitel\WF_Udvoitel\WF_Udvoitel\obj\Debug\netcoreapp3.1\WF_Udvoitel.pdb
+C:\Users\kozyr\Desktop\Медведь учёба\CS_Basics\CS_Basics_Lesson7\Lesson7_WF_Udvoitel\WF_Udvoitel\WF_Udvoitel\obj\Debug\netcoreapp3.1\WF_Udvoitel.genruntimeconfig.cache
+C:\Users\kozyr\Desktop\Медведь учёба\CS_Basics\CS_Basics_Lesson7\Lesson7_WF_Udvoitel\WF_Udvoitel\WF_Udvoitel\obj\Debug\netcoreapp3.1\WF_Udvoitel.Properties.Resources.resources
